@@ -1,4 +1,4 @@
-package core;
+package estore.services.interfaces.src.service;
 
 import estorePojo.exceptions.InsufficientBalanceException;
 import estorePojo.exceptions.UnknownAccountException;
